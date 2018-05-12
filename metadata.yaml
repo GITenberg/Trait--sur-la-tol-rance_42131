@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Voltaire
     - http://en.wikipedia.org/wiki/Voltaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42131#Trait--sur-la-tol-rance
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2013-02-19'
 gutenberg_type: Text
